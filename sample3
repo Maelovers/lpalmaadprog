@@ -1,0 +1,12 @@
+using System;
+					
+	public class Program
+	{
+		public static void Main()
+		{
+		
+			string firstname = "Lorimae";
+			string lastname = "Palma";
+			Console.WriteLine(firstname + " " + lastname);
+	}
+	}
